@@ -60,7 +60,7 @@ Se utilizaron las siguientes clases para cumplir con los requisitos del sistema:
 
 ---
 
-##  2. Claridad y documentación  
+##  2. Claridad 
 - El código incluye **comentarios explicativos** en las clases y métodos.  
 - La separación en **archivos independientes** facilita la comprensión.  
 - Este **README.md** documenta el caso de uso, estructuras y ejecución del sistema.  
